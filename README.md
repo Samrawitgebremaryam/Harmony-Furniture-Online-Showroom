@@ -1,5 +1,8 @@
 # Harmony Furniture Online Showcase
 \\Update a few lines
+
+//another update
+
 Welcome to the Harmony Furniture Online Showcase, an online platform that provides a unique and convenient experience for exploring the exquisite furniture offerings of Harmony Furniture. 
 
 ## About Harmony Furniture
